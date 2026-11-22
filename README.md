@@ -1,8 +1,8 @@
 # Sokoban Solver — Secret Loader
 
-[![make.fun](https://img.shields.io/badge/make.fun-entry-7c3aed)](https://make.fun/competitions/sokoban-solver-01-run-20261121)
-[![practice](https://img.shields.io/badge/practice-1%2C000%2C000-brightgreen)](https://make.fun/competitions/sokoban-solver-01-run-20261121)
-[![loader](https://img.shields.io/badge/loader-19%20bytes-blue)](https://make.fun/competitions/sokoban-solver-01-run-20261121)
+[![make.fun](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/competitions/sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/melatim80186/makefun-sokoban-solver-01-secret/rank.svg)](https://make.fun/competitions/sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/melatim80186/makefun-sokoban-solver-01-secret/reward.svg)](https://make.fun/competitions/sokoban-solver-01-run-20261121)
 
 Bounty: [Build the best Sokoban solver — make.fun](https://make.fun/competitions/sokoban-solver-01-run-20261121)
 
